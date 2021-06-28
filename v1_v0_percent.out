@@ -1,0 +1,168 @@
+  Temperature(K),Ekin(eV),ReactionProb  300.  0.073  6.58258551E-06
+ v0 Boltzmann factor Fb( 0 0)=   0.154280429
+ v0 Boltzmann factor Fb( 0 1)=   0.694532859
+ v0 Boltzmann factor Fb( 0 2)=   0.0971423665
+ v0 Boltzmann factor Fb( 0 3)=   0.0523544603
+ v0 Boltzmann factor Fb( 0 4)=   0.00149442587
+ v0 Boltzmann factor Fb( 0 5)=   0.000193922891
+ v0 Boltzmann factor Fb( 0 6)=   1.47721139E-06
+ v0 Boltzmann factor Fb( 0 7)=   5.57769361E-08
+ v0 Boltzmann factor Fb( 0 8)=   1.34235141E-10
+ v0 Boltzmann factor Fb( 0 9)=   1.7378263E-12
+ v0 Boltzmann factor Fb( 0 10)=   1.55717635E-15
+ v1 Boltzmann factor Fb( 1 0)=   5.24358371E-10
+ v1 Boltzmann factor Fb( 1 1)=   2.44403232E-09
+ v1 Boltzmann factor Fb( 1 2)=   3.66362707E-10
+ v1 Boltzmann factor Fb( 1 3)=   2.18887193E-10
+ v1 Boltzmann factor Fb( 1 4)=   7.15822471E-12
+ v1 Boltzmann factor Fb( 1 5)=   1.09843848E-12
+ v1 Boltzmann factor Fb( 1 6)=   1.01988238E-14
+ v1 Boltzmann factor Fb( 1 7)=   4.82864967E-16
+ 
+
+Temperature(K),Ekin(eV),ReactionProb  500.  0.12  1.32247147E-05
+ v0 Boltzmann factor Fb( 0 0)=   0.0963880077
+ v0 Boltzmann factor Fb( 0 1)=   0.572465322
+ v0 Boltzmann factor Fb( 0 2)=   0.139017576
+ v0 Boltzmann factor Fb( 0 3)=   0.170332073
+ v0 Boltzmann factor Fb( 0 4)=   0.0143687216
+ v0 Boltzmann factor Fb( 0 5)=   0.00709609667
+ v0 Boltzmann factor Fb( 0 6)=   0.000261986812
+ v0 Boltzmann factor Fb( 0 7)=   6.02829226E-05
+ v0 Boltzmann factor Fb( 0 8)=   1.09631613E-06
+ v0 Boltzmann factor Fb( 0 9)=   1.3103589E-07
+ v0 Boltzmann factor Fb( 0 10)=   1.30414806E-09
+ v1 Boltzmann factor Fb( 1 0)=   7.99490716E-07
+ v1 Boltzmann factor Fb( 1 1)=   4.8483914E-06
+ v1 Boltzmann factor Fb( 1 2)=   1.227358E-06
+ v1 Boltzmann factor Fb( 1 3)=   1.59976588E-06
+ v1 Boltzmann factor Fb( 1 4)=   1.46425495E-07
+ v1 Boltzmann factor Fb( 1 5)=   7.99663953E-08
+ v1 Boltzmann factor Fb( 1 6)=   3.32463442E-09
+ v1 Boltzmann factor Fb( 1 7)=   8.76227593E-10
+ 
+ Temperature(K),Ekin(eV),ReactionProb  700.  0.16  1.9511711E-05
+ v0 Boltzmann factor Fb( 0 0)=   0.0700165732
+ v0 Boltzmann factor Fb( 0 1)=   0.468277321
+ v0 Boltzmann factor Fb( 0 2)=   0.144049368
+ v0 Boltzmann factor Fb( 0 3)=   0.250958361
+ v0 Boltzmann factor Fb( 0 4)=   0.0336829031
+ v0 Boltzmann factor Fb( 0 5)=   0.0294967235
+ v0 Boltzmann factor Fb( 0 6)=   0.00214188623
+ v0 Boltzmann factor Fb( 0 7)=   0.00106929666
+ v0 Boltzmann factor Fb( 0 8)=   4.62665193E-05
+ v0 Boltzmann factor Fb( 0 9)=   1.43359812E-05
+ v0 Boltzmann factor Fb( 0 10)=   4.00387559E-07
+ v1 Boltzmann factor Fb( 1 0)=   1.64348384E-05
+ v1 Boltzmann factor Fb( 1 1)=   0.000111567515
+ v1 Boltzmann factor Fb( 1 2)=   3.53542017E-05
+ v1 Boltzmann factor Fb( 1 3)=   6.43748091E-05
+ v1 Boltzmann factor Fb( 1 4)=   9.15876818E-06
+ v1 Boltzmann factor Fb( 1 5)=   8.61803115E-06
+ v1 Boltzmann factor Fb( 1 6)=   6.8119432E-07
+ v1 Boltzmann factor Fb( 1 7)=   3.74701817E-07
+ 
+ Temperature(K),Ekin(eV),ReactionProb  900.  0.21  3.92625116E-05
+ v0 Boltzmann factor Fb( 0 0)=   0.0548295882
+ v0 Boltzmann factor Fb( 0 1)=   0.391715398
+ v0 Boltzmann factor Fb( 0 2)=   0.13741293
+ v0 Boltzmann factor Fb( 0 3)=   0.291099949
+ v0 Boltzmann factor Fb( 0 4)=   0.0505705686
+ v0 Boltzmann factor Fb( 0 5)=   0.0608784645
+ v0 Boltzmann factor Fb( 0 6)=   0.00643706392
+ v0 Boltzmann factor Fb( 0 7)=   0.00494164184
+ v0 Boltzmann factor Fb( 0 8)=   0.000346071679
+ v0 Boltzmann factor Fb( 0 9)=   0.000182038562
+ v0 Boltzmann factor Fb( 0 10)=   9.01924465E-06
+ v1 Boltzmann factor Fb( 1 0)=   8.24367332E-05
+ v1 Boltzmann factor Fb( 1 1)=   0.000595811241
+ v1 Boltzmann factor Fb( 1 2)=   0.000213892289
+ v1 Boltzmann factor Fb( 1 3)=   0.000468954835
+ v1 Boltzmann factor Fb( 1 4)=   8.52461591E-05
+ v1 Boltzmann factor Fb( 1 5)=   0.000108520698
+ v1 Boltzmann factor Fb( 1 6)=   1.22571726E-05
+ v1 Boltzmann factor Fb( 1 7)=   1.01467808E-05
+
+ Temperature(K),Ekin(eV),ReactionProb  1100.  0.24  0.000148308868
+ v0 Boltzmann factor Fb( 0 0)=   0.0448857443
+ v0 Boltzmann factor Fb( 0 1)=   0.334424483
+ v0 Boltzmann factor Fb( 0 2)=   0.127543625
+ v0 Boltzmann factor Fb( 0 3)=   0.305996154
+ v0 Boltzmann factor Fb( 0 4)=   0.0626433332
+ v0 Boltzmann factor Fb( 0 5)=   0.0923394281
+ v0 Boltzmann factor Fb( 0 6)=   0.0124012887
+ v0 Boltzmann factor Fb( 0 7)=   0.0125191527
+ v0 Boltzmann factor Fb( 0 8)=   0.00119110494
+ v0 Boltzmann factor Fb( 0 9)=   0.000877419147
+ v0 Boltzmann factor Fb( 0 10)=   6.26093086E-05
+ v1 Boltzmann factor Fb( 1 0)=   0.000220022814
+ v1 Boltzmann factor Fb( 1 1)=   0.00165491103
+ v1 Boltzmann factor Fb( 1 2)=   0.000643192953
+ v1 Boltzmann factor Fb( 1 3)=   0.00158710945
+ v1 Boltzmann factor Fb( 1 4)=   0.000337189629
+ v1 Boltzmann factor Fb( 1 5)=   0.000520289858
+ v1 Boltzmann factor Fb( 1 6)=   7.37511587E-05
+ v1 Boltzmann factor Fb( 1 7)=   7.91910554E-05
+ 
+ Temperature(K),Ekin(eV),ReactionProb  1300.  0.29  0.0013979255
+ v0 Boltzmann factor Fb( 0 0)=   0.0378147971
+ v0 Boltzmann factor Fb( 0 1)=   0.290051373
+ v0 Boltzmann factor Fb( 0 2)=   0.117211162
+ v0 Boltzmann factor Fb( 0 3)=   0.306506967
+ v0 Boltzmann factor Fb( 0 4)=   0.0703012396
+ v0 Boltzmann factor Fb( 0 5)=   0.11922335
+ v0 Boltzmann factor Fb( 0 6)=   0.0188947402
+ v0 Boltzmann factor Fb( 0 7)=   0.0230558698
+ v0 Boltzmann factor Fb( 0 8)=   0.00271199641
+ v0 Boltzmann factor Fb( 0 9)=   0.002522336
+ v0 Boltzmann factor Fb( 0 10)=   0.00023169337
+ v1 Boltzmann factor Fb( 1 0)=   0.000420097791
+ v1 Boltzmann factor Fb( 1 1)=   0.00324823485
+ v1 Boltzmann factor Fb( 1 2)=   0.00133378231
+ v1 Boltzmann factor Fb( 1 3)=   0.00357179483
+ v1 Boltzmann factor Fb( 1 4)=   0.000845355448
+ v1 Boltzmann factor Fb( 1 5)=   0.00149018889
+ v1 Boltzmann factor Fb( 1 6)=   0.000247205442
+ v1 Boltzmann factor Fb( 1 7)=   0.000317815321
+
+ Temperature(K),Ekin(eV),ReactionProb  1500.  0.33  0.00583561233
+ v0 Boltzmann factor Fb( 0 0)=   0.0325039992
+ v0 Boltzmann factor Fb( 0 1)=   0.254687247
+ v0 Boltzmann factor Fb( 0 2)=   0.107382218
+ v0 Boltzmann factor Fb( 0 3)=   0.299116799
+ v0 Boltzmann factor Fb( 0 4)=   0.074569892
+ v0 Boltzmann factor Fb( 0 5)=   0.140155969
+ v0 Boltzmann factor Fb( 0 6)=   0.0250794404
+ v0 Boltzmann factor Fb( 0 7)=   0.0351670204
+ v0 Boltzmann factor Fb( 0 8)=   0.00483289114
+ v0 Boltzmann factor Fb( 0 9)=   0.00533305164
+ v0 Boltzmann factor Fb( 0 10)=   0.000589545904
+ v1 Boltzmann factor Fb( 1 0)=   0.000657961182
+ v1 Boltzmann factor Fb( 1 1)=   0.00519146616
+ v1 Boltzmann factor Fb( 1 2)=   0.00221938623
+ v1 Boltzmann factor Fb( 1 3)=   0.00631094125
+ v1 Boltzmann factor Fb( 1 4)=   0.00161670099
+ v1 Boltzmann factor Fb( 1 5)=   0.00314225141
+ v1 Boltzmann factor Fb( 1 6)=   0.000584977728
+ v1 Boltzmann factor Fb( 1 7)=   0.000858242035
+
+ Temperature(K),Ekin(eV),ReactionProb  1700.  0.35  0.0143325709
+ v0 Boltzmann factor Fb( 0 0)=   0.028367024
+ v0 Boltzmann factor Fb( 0 1)=   0.225924458
+ v0 Boltzmann factor Fb( 0 2)=   0.0983972161
+ v0 Boltzmann factor Fb( 0 3)=   0.287655394
+ v0 Boltzmann factor Fb( 0 4)=   0.076432426
+ v0 Boltzmann factor Fb( 0 5)=   0.155406669
+ v0 Boltzmann factor Fb( 0 6)=   0.0305137981
+ v0 Boltzmann factor Fb( 0 7)=   0.0475866087
+ v0 Boltzmann factor Fb( 0 8)=   0.00736584647
+ v0 Boltzmann factor Fb( 0 9)=   0.00926348993
+ v0 Boltzmann factor Fb( 0 10)=   0.00117983876
+ v1 Boltzmann factor Fb( 1 0)=   0.000908532299
+ v1 Boltzmann factor Fb( 1 1)=   0.00728037886
+ v1 Boltzmann factor Fb( 1 2)=   0.00320983913
+ v1 Boltzmann factor Fb( 1 3)=   0.00955592037
+ v1 Boltzmann factor Fb( 1 4)=   0.00260076285
+ v1 Boltzmann factor Fb( 1 5)=   0.00544681459
+ v1 Boltzmann factor Fb( 1 6)=   0.00110748731
+ v1 Boltzmann factor Fb( 1 7)=   0.00179749579
